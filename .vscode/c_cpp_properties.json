@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/psauer/rethink_ws/devel/include/**",
+                "/home/psauer/nuws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/psauer/rethink_ws/src/baxter_simulator/baxter_sim_controllers/include/**",
+                "/home/psauer/rethink_ws/src/baxter_simulator/baxter_sim_hardware/include/**",
+                "/home/psauer/rethink_ws/src/baxter_simulator/baxter_sim_io/include/**",
+                "/home/psauer/rethink_ws/src/baxter_simulator/baxter_sim_kinematics/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+                "/home/psauer/nuws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+                "/home/psauer/nuws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+                "/home/psauer/nuws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+                "/home/psauer/nuws/src/franka_ros/franka_control/include/**",
+                "/home/psauer/nuws/src/franka_ros/franka_example_controllers/include/**",
+                "/home/psauer/nuws/src/franka_ros/franka_gripper/include/**",
+                "/home/psauer/nuws/src/franka_ros/franka_hw/include/**",
+                "/home/psauer/nuws/src/geometric_shapes/include/**",
+                "/home/psauer/nuws/src/interbotix_ros_arms/interbotix_examples/interbotix_moveit_interface/include/**",
+                "/home/psauer/nuws/src/interbotix_ros_arms/interbotix_sdk/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_ros/benchmarks/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_ros/move_group/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_ros/robot_interaction/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_ros/moveit_servo/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_setup_assistant/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+                "/home/psauer/nuws/src/moveit_visual_tools/include/**",
+                "/home/psauer/nuws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/psauer/nuws/src/rviz_visual_tools/include/**",
+                "/home/psauer/rethink_ws/src/sawyer_simulator/sawyer_gazebo/include/**",
+                "/home/psauer/rethink_ws/src/sawyer_simulator/sawyer_hardware_interface/include/**",
+                "/home/psauer/rethink_ws/src/sawyer_simulator/sawyer_sim_controllers/include/**",
+                "/home/psauer/nuws/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+                "/home/psauer/rethink_ws/src/sns_ik/sns_ik_lib/include/**",
+                "/home/psauer/nuws/src/srdfdom/include/**",
+                "/home/psauer/nuws/src/trac_ik/trac_ik_kinematics_plugin/include/**",
+                "/home/psauer/nuws/src/trac_ik/trac_ik_lib/include/**",
+                "/home/psauer/nuws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/psauer/nuws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/psauer/nuws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/psauer/nuws/src/turtlesim/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu18",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
