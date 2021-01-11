@@ -32,3 +32,6 @@ Scans the game board and play connect-4 with a human player by placing checkers 
  - Launches the `move_group.launch` launchfile from the `sawyer_moveit_config` package
  - Launches the `joint_trajectory_action_server` node from the `intera_interface` package
  - Launches the `camSubscribe.py` node 
+
+### My Focus:
+For this project, I mainly focused on the game board scanning and analyzing process. Since the head monitor camera views the game board from an upper angle, the image it records is tilted. In order to restore the image into a horizontal parallel view, four apriltags are placed on four corners of the board, and a perspective transformation is performed.
